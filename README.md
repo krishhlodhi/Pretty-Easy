@@ -6,12 +6,21 @@ This Linux package enhances the command line by making your terminal more visual
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Installation
+## INSTALLATION
 
-Install my-project with npm
+### Install the package
 
+
+for Advanced Package Tool (APT)
 ```bash
-  npm install my-project
-  cd my-project
+  apt install pretty-easy
 ```
-    
+for PACMAN
+```bash
+  apt install pretty-easy
+```
+
+### Install Dependence and Setup
+```bash
+  pretty install
+```
